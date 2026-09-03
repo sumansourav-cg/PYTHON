@@ -2,8 +2,8 @@
 from gettext import find
 
 
-name="apoorv"
-city="gaya"
+name="Suman"
+city="Bokaro"
 fav_prog_lang="c++"
 message="work smart"
 
@@ -41,7 +41,7 @@ print(c[-3])
 print(c[-11])
 
 #Q6
-d="apoorv kumar"
+d="Suman Sourav"
 print(d[0])
 print(d[-1])
 print(d[7])
@@ -89,19 +89,19 @@ i="Python Programming"
 print(len(i))
 
 #Q13
-first_name="apoorv"
-last_name="kumar"
+first_name="suman"
+last_name="sourav"
 print(first_name + " " + last_name)
 
 #Q14
-name="apoorv"
+name="sUMAN"
 age=20
 city="gaya"
 programming_language="python"
 print("my name is " + name + " and my age is " + str(age) + " and i live in " + city + " and my favourite programming language is " + programming_language)
 
 #Q15
-j="Apoorv"
+j="SUMAN"
 jj=20
 print(j+str(jj))
 
@@ -195,9 +195,9 @@ print(" ".join(words))
 print("-" .join(words))
 
 #Q35
-name="apoorv" 
+name="Suman" 
 age=20
-city="gaya"
+city="jharkhand"
 print(f"My name is {name} and I am {age} years old. I live in {city}.")
 
 #Q36
