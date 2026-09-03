@@ -1,5 +1,5 @@
 #Q1
-from gettext import find
+
 
 
 name="Suman"
